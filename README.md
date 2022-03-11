@@ -1,7 +1,7 @@
 ## About the repository ✏   
 Archiving assignments and flipped learning history in MACHINE LEARNING 2022-1   
+During the semester, both the online lecture from the professor and the flipped learning will be proceeded.   
 
-During the semester, both the online lecture from the professor and flipped learning will be proceeded.   
 ## Flipped Learning ✏   
 For the flipped learning, students will take the [Andrew Ng's Machine Learning course](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).   
 I will log the progress with the time table below. 
