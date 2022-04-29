@@ -30,4 +30,5 @@ I will log the progress with the time table below.
 | 2022-03-25 | 3  | Image Gradient, First order Taylor Approximation| 
 | 2022-04-01 | 4  | Heat Equation |
 | 2022-04-08 | 5  | Polynomial regression by least square problems |
+| 2022-04-15 | 6  | Linear Regression |
 
