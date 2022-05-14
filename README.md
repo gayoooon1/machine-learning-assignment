@@ -29,6 +29,9 @@ I will log the progress with the time table below.
 | 2022-03-18 | 2  | Numpy, Matrix Multiplication| 
 | 2022-03-25 | 3  | Image Gradient, First order Taylor Approximation| 
 | 2022-04-01 | 4  | Heat Equation |
-| 2022-04-08 | 5  | Polynomial regression by least square problems |
-| 2022-04-15 | 6  | Linear Regression |
+| 2022-04-08 | 5  | Polynomial Regression by least square problems |
+| 2022-04-15 | 6  | Linear Regression with 2D data |
+| 2022-04-22 | 7  | Linear Regression with 3D data |
+| 2022-05-13 | 8  | Logistic Regression |
+| 2022-05-20 | 9  | Logistic Regression with non-linear features |
 
