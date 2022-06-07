@@ -36,5 +36,5 @@ I will log the progress with the time table below.
 | 2022-05-20 | 9  | Logistic Regression with non-linear features (Polynomial Prediction) |
 | 2022-05-27 | 10  | Logistic Regression with non-linear features and a quadratic regularization |
 | 2022-06-03 | 11  | K means Clustering |
-| 2022-06-10 | 12  | Principal Compopnent Analysis |
+| 2022-06-10 | 12  | Principal Component Analysis |
 
