@@ -33,8 +33,8 @@ I will log the progress with the time table below.
 | 2022-04-15 | 6  | Linear Regression with 2D data |
 | 2022-04-22 | 7  | Linear Regression with 3D data |
 | 2022-05-13 | 8  | Logistic Regression |
-| 2022-05-20 | 9  | Logistic Regression with non-linear features (Polynomial Prediction) |
+| 2022-05-20 | 9  | Logistic Regression with non-linear features |
 | 2022-05-27 | 10  | Logistic Regression with non-linear features and a quadratic regularization |
 | 2022-06-03 | 11  | K means Clustering |
-| 2022-06-10 | 12  | PCA |
+| 2022-06-10 | 12  | Principal Component Analysis |
 
